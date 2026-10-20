@@ -1,0 +1,15 @@
+# Private business data: never publish real margins
+my_items*.csv
+packing_list*.csv
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
